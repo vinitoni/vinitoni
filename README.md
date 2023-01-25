@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vinícius Toni 👨🏽‍💻
 
-- 📘 Estudando Ciência da Computação
+- 📘 Estudando Engenharia de Software
 - 🌱 Aprendendo Desenvolvimento Full Stack
 
 <div align="center">

@@ -23,9 +23,6 @@
   
 <div> 
   
-  MEU ÚLTIMO PROJETO => <a href="http://joaoejulia.link/" target="_blank">SITE DE CASAMENTO!</a>
-  
-  
 </div>
 
   ##

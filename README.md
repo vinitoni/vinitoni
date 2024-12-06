@@ -2,7 +2,6 @@
 
 - 📘 Estudando Engenharia de Software
 - 👨🏽‍💻 Analista de Sistemas e Testes
-- 🌱 Aprendendo Desenvolvimento Full Stack
 
 <div align="center">
   <a href="https://github.com/vinitoni">
